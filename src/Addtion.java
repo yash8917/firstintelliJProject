@@ -8,7 +8,6 @@
     int ADD(){
         return a+b;
     }
-
      public static void main(String[] args) {
          Addtion obj=new Addtion();
          obj.ADD();
